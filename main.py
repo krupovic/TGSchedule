@@ -90,6 +90,13 @@ def ntList(update, context):
     context.bot.send_message(chat_id=update.effective_chat.id,
                              text=' '.join([str(job.next_t) for job in context.job_queue.jobs()]))
 
+def buttons(update, context):
+    keyboard = ReplyKeyboardMarkup([
+        ['/next', '/today']
+    ])
+    context.bot.send_message(chat_id=update.effective_chat.id, reply_markup= keyboard, text = 'Првиет!')
+
+
 
 # '''
 def main():
@@ -99,6 +106,7 @@ def main():
                         level=logging.INFO)
 
     updater.start_polling()
+    dispatcher.add_handler(CommandHandler('start', buttons))
     dispatcher.add_handler(CommandHandler('today', askSchedule))
     dispatcher.add_handler(CommandHandler('next', askNext))
     dispatcher.add_handler(CommandHandler('notify', createJob))
