@@ -1,0 +1,82 @@
+{
+	"0" : {
+	"8:10" : {"subject" :"Physics I", "room" : "TR-514"},
+	"9:10" : {"subject" :"Calculus I", "room" : "TR-516"},
+	"10:20" : {"subject" :"", "room" : ""},
+	"11:20" : {"subject" :"", "room" : ""},
+	"12:20" : {"subject" :"", "room" : ""},
+	"13:20" : {"subject" :"", "room" : ""},
+	"14:20" : {"subject" :"", "room" : ""},
+	"15:30" : {"subject" :"", "room" : ""},
+	"16:30" : {"subject" :"", "room" : ""},
+	"17:30" : {"subject" :"Physics I", "room" : "TR-514"},
+	"18:25" : {"subject" :"Basics of Mathematics I", "room" : "TR-309"},
+	"19:20" : {"subject" :"Basics of Mathematics I", "room" : "TR-309"},
+	"20:15" : {"subject" :"Basics of Mathematics I", "room" : "TR-309"}
+	},
+
+	"1" : {
+	"8:10" : {"subject" :"", "room" : ""},
+	"9:10" : {"subject" :"", "room" : ""},
+	"10:20" : {"subject" :"Advanced Communication in English", "room" : "TR-511"},
+	"11:20" : {"subject" :"Advanced Communication in English", "room" : "TR-511"},
+	"12:20" : {"subject" :"", "room" : ""},
+	"13:20" : {"subject" :"Chemistry I", "room" : "TR-516"},
+	"14:20" : {"subject" :"Chemistry I", "room" : "TR-516"},
+	"15:30" : {"subject" :"", "room" : ""},
+	"16:30" : {"subject" :"", "room" : ""},
+	"17:30" : {"subject" :"", "room" : ""},
+	"18:25" : {"subject" :"", "room" : ""},
+	"19:20" : {"subject" :"", "room" : ""},
+	"20:15" : {"subject" :"", "room" : ""}
+	},
+
+	"2" : {
+	"8:10" : {"subject" :"Calculus I", "room" : "TR-413-2"},
+	"9:10" : {"subject" :"Calculus I", "room" : "TR-413-2"},
+	"10:20" : {"subject" :"", "room" : ""},
+	"11:20" : {"subject" :"", "room" : ""},
+	"12:20" : {"subject" :"", "room" : ""},
+	"13:20" : {"subject" :"Physics Lab I", "room" : "IB-802"},
+	"14:20" : {"subject" :"Physics Lab I", "room" : "IB-802"},
+	"15:30" : {"subject" :"Physics Lab I", "room" : "IB-802"},
+	"16:30" : {"subject" :"", "room" : ""},
+	"17:30" : {"subject" :"", "room" : ""},
+	"18:25" : {"subject" :"Mandarin Chinese Practical (Level 1)", "room" : "IB-308"},
+	"19:20" : {"subject" :"Mandarin Chinese Practical (Level 1)", "room" : "IB-308"},
+	"20:15" : {"subject" :"Mandarin Chinese Practical (Level 1)", "room" : "IB-308"}
+	},
+
+	"3" : {
+	"8:10" : {"subject" :"", "room" : ""},
+	"9:10" : {"subject" :"Chemistry Lab I", "room" : "E2-802"},
+	"10:20" : {"subject" :"Chemistry Lab I", "room" : "E2-802"},
+	"11:20" : {"subject" :"Chemistry Lab I", "room" : "E2-802"},
+	"12:20" : {"subject" :"", "room" : ""},
+	"13:20" : {"subject" :"Calculus I", "room" : "TR-516"},
+	"14:20" : {"subject" :"Calculus I", "room" : "TR-516"},
+	"15:30" : {"subject" :"", "room" : ""},
+	"16:30" : {"subject" :"Physical Education (Volleyball) I", "room" : ""},
+	"17:30" : {"subject" :"Physical Education (Volleyball) I", "room" : ""},
+	"18:25" : {"subject" :"", "room" : ""},
+	"19:20" : {"subject" :"", "room" : ""},
+	"20:15" : {"subject" :"", "room" : ""}
+	},
+
+	"4" : {
+	"8:10" : {"subject" :"", "room" : ""},
+	"9:10" : {"subject" :"", "room" : ""},
+	"10:20" : {"subject" :"Chemistry I", "room" : "TR-516"},
+	"11:20" : {"subject" :"Chemistry I", "room" : "TR-516"},
+	"12:20" : {"subject" :"", "room" : ""},
+	"13:20" : {"subject" :"Introduction to Engineering and Engineering Ethics", "room" : "E2-102"},
+	"14:20" : {"subject" :"Introduction to Engineering and Engineering Ethics", "room" : "E2-102"},
+	"15:30" : {"subject" :"", "room" : ""},
+	"16:30" : {"subject" :"Physics I", "room" : "TR-514"},
+	"17:30" : {"subject" :"Physics I", "room" : "TR-514"},
+	"18:25" : {"subject" :"", "room" : ""},
+	"19:20" : {"subject" :"", "room" : ""},
+	"20:15" : {"subject" :"", "room" : ""}
+	}
+}
+
